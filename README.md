@@ -30,6 +30,22 @@ A particular physical presentation of a resource, including the physical form or
 ### Technique
 Manner and ability with which a creator employs the technical skills of a particular art or field of endeavor. Technique terms used in this collection include: typewriting; painting (image-making)
 ### Style Period
+Time period the depicted style of the headdress exhibits. Examples include: Baroque; Egyptian (ancient); Late Medieval
+### Cultural Context
+Culture depicted in the work. Examples include: Germam; Ancient Egyptian; English
+### Work Description
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
+### Image Rights
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). URI: http://rightsstatements.org/vocab/InC/1.0/
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
+### Source
+Source from which the item was derived (if part of a greater whole).
+
+### Image Measurement
+The size of the digital file.
 
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Clifford P. and Therese S. Westermeier Collection](https://archives.colorado.edu/repositories/2/resources/1979).
